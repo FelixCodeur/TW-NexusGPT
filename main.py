@@ -76,3 +76,5 @@ def on_ready():
 keep_alive.keep_alive
 
 client.run()
+
+#Here is some text
